@@ -1,6 +1,6 @@
 <!-- Main Sidebar Container -->
 <aside class="main-sidebar sidebar-dark-yellow elevation-4">
-    <!-- Brand Logo -->safffffffffffffffff
+    <!-- Brand Logo -->
 {{--    <a href="index3.html" class="brand-link">--}}
 {{--        <img src="{{asset('asset/dist/img/shopping.jpg')}}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"--}}
 {{--             style="opacity: .8">--}}
